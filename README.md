@@ -1,4 +1,4 @@
-# PokeAPIClientJava De [Execice-Apprendre JAVA](https://discord.com/channels/745101396705149019/972963497707180083/1158138997642633266)
+# PokeAPIClientJava De [Execice-Apprendre JAVA]()
 ![Preview](https://github.com/codeurzebs/PokeAPIClientJava/blob/main/.github/workflows/private/previewUrlApi.PNG?raw=true)
 ## Voir le Wiki --> [Clique Ici](https://github.com/codeurzebs/PokeAPIClientJava/wiki)
 
