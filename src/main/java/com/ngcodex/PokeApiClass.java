@@ -15,7 +15,7 @@ public class PokeApiClass {
         try {
             HttpResponse<String> listResponse = client.send(listRequest, HttpResponse.BodyHandlers.ofString());
             Map<String, Object> listResponseMap = JsonClass.parseJsonObject(listResponse.body());
-            if (listResponseMap.containsKey("results")) {
+            
                 List<Map<String, Object>> pokemonList = (List<Map<String, Object>>) listResponseMap.get("results");
                 if (!pokemonList.isEmpty()) {
                     Map<String, Object> firstPokemon = pokemonList.get(0);
